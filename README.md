@@ -1,6 +1,6 @@
 # Chutes And Ladders Simulator with Java
 
-![The Software's UI](http://imgur.com/4CNVhJ9)
+![The Software's UI](http://i.imgur.com/4CNVhJ9.png)
 
 This Project is a simulation of the game “Chutes and Ladders”, it is designed to automatically generate a game board, add a specific number of players and run the simulation by automatically taking turns and moving the players’ tokens on the board until a player reaches the last tile on the board.
 
@@ -22,11 +22,11 @@ The program will be used in two ways : Either manually move forward one turn or 
 
 The Project has both a Graphical Interface and a Command-Line Interface :
 
-![The Software's UI](http://imgur.com/4CNVhJ9)
+![The Software's UI](http://i.imgur.com/4CNVhJ9.png)
 
-![Command-Line Interface](http://imgur.com/qUfdTcl)
+![Command-Line Interface](http://i.imgur.com/qUfdTcl.png)
 
 To understand how classes work and relate to each other, please take a look at this class diagram :
 
-![Classes Diagram from BlueJ](http://imgur.com/6BtcVGN)
+![Classes Diagram from BlueJ](http://i.imgur.com/6BtcVGN.png)
 
